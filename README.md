@@ -10,16 +10,12 @@ This project implements an **AI-powered Software Development Life Cycle (SDLC) a
 
 The system simulates **Waterfall and Agile (Scrum) workflows**, where autonomous AI agents collaborate to generate requirements, sprint plans, architecture design, testing strategies, and documentation.
 
----
-
 ## Problem Statement
 Traditional SDLC processes require coordination across multiple stakeholders, leading to communication overhead and planning inefficiencies.
 
 This project explores:
 
 > Can multi-agent LLM systems simulate structured SDLC workflows efficiently and autonomously?
-
----
 
 ## System Architecture
 
@@ -33,15 +29,11 @@ Role-based AI agents simulate real SDLC stakeholders:
 - QA Engineer – Creates test cases  
 - Documentation Engineer – Produces documentation  
 
----
-
 ## Workflow Modes Implemented
 
 1. **Linear Execution** – Sequential agent flow  
 2. **Round-Robin Execution** – Iterative agent collaboration  
 3. **Graph-Based Execution (LangGraph)** – Controlled, conditional orchestration  
-
----
 
 ## Tech Stack
 
@@ -52,8 +44,6 @@ Role-based AI agents simulate real SDLC stakeholders:
 - OpenAI LLMs  
 - Prompt Engineering  
 
----
-
 ## Key Features
 
 - Automated requirement refinement  
@@ -62,8 +52,6 @@ Role-based AI agents simulate real SDLC stakeholders:
 - Architecture & test case generation  
 - Multi-agent orchestration comparison  
 - Execution efficiency analysis  
-
----
 
 ## Results & Insights
 
