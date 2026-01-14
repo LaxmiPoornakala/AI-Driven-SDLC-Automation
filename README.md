@@ -59,3 +59,23 @@ Role-based AI agents simulate real SDLC stakeholders:
 - Round-robin improved refinement but increased coordination overhead.
 - Structured prompt design significantly improved output consistency.
 - Multi-agent systems can realistically simulate SDLC planning stages.
+
+## How to Run
+
+- Install autogen langchain langgraph openai
+- Configure your API key in the llm_config file and run the notebooks.
+
+## Skills Demonstrated
+
+- Multi-Agent AI System Design
+- Workflow Orchestration
+- Prompt Engineering
+- SDLC Modeling
+- Experimental Evaluation of AI Systems
+
+## Use Cases
+
+- AI-powered project management tools
+- Agile automation platforms
+- Intelligent DevOps planning systems
+- Enterprise workflow automation
